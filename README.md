@@ -41,7 +41,7 @@
 
   <div class="section highlight">
     <h3>🏫 About Our School</h3>
-    <p><strong>Libermann Pre and Primary School</strong> is located in mbezi beach kinondoni, Dar es Salaam, Tanzania.Our motto is one head one soul. It was founded in 2010 to provide quality English-language education in a caring Catholic environment. The school was built with support from the Spiritan community and offers a safe place for children to learn and grow.</p>
+    <p><strong>Libermann Pre and Primary School</strong> is located in mbezi beach kinondoni, Dar es Salaam, Tanzania.Our motto is one heart one soul. It was founded in 2010 to provide quality English-language education in a caring Catholic environment. The school was built with support from the Spiritan community and offers a safe place for children to learn and grow.</p>
   </div>
 
   <div class="section highlight">
