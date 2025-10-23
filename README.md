@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Libermann School Occupation Day</title>
+  <title>Libermann School profession day</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -32,11 +32,11 @@
 <body>
 
   <h1>🎉 Libermann Pre and Primary School</h1>
-  <h2>Occupation Day Celebration</h2>
+  <h2>PROFESSION DAY</h2>
 
   <div class="section highlight">
-    <h3>📚 What is Occupation Day?</h3>
-    <p>Occupation Day is a special event where students explore different careers and learn how people work in fields like medicine, technology, education, and more. It’s a fun way to discover future dreams and talents!</p>
+    <h3>📚 What is Profession?</h3>
+    <p>Profession is a special event where students explore different careers and learn how people work in fields like medicine, technology, education, and more. It’s a fun way to discover future dreams and talents!</p>
   </div>
 
   <div class="section highlight">
@@ -60,8 +60,8 @@
   </div>
 
   <div class="section highlight">
-    <h3>👦 Meet Emmanuel</h3>
-    <p>Hi! I’m Emmanuel, a Grade 6 student who loves ICT and web development. I created this page to guide you through Occupation Day and show how technology can be fun and educational!</p>
+    <h3>👦 Meet EmmanuelMagori</h3>
+    <p>Hi! I’m EmmanuelMagori, a Grade 6 student who loves ICT and web development. I created this page to guide you through Occupation Day and show how technology can be fun and educational!</p>
   </div>
 
   <div class="footer">
