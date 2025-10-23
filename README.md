@@ -35,8 +35,8 @@
   <h2>PROFESSION DAY</h2>
 
   <div class="section highlight">
-    <h3>📚 What is Profession?</h3>
-    <p>Profession is a special event where students explore different careers and learn how people work in fields like medicine, technology, education, and more. It’s a fun way to discover future dreams and talents!</p>
+    <h3>📚 What is Profession day?</h3>
+    <p>Profession day is a special event where students explore different careers and learn how people work in fields like medicine, technology, education, and more. It’s a fun way to discover future dreams and talents!</p>
   </div>
 
   <div class="section highlight">
