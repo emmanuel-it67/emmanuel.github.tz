@@ -36,7 +36,8 @@
 
   <div class="section highlight">
     <h3>📚 What is Profession day?</h3>
-    <p>Profession day is a special event where students explore different careers and learn how people work in fields like medicine, technology, education, and more. It’s a fun way to discover future dreams and talents!</p>
+    <p>Profession day is a special event where students explore different careers and learn how people work in fields like medicine, technology, education, and more. It’s a fun way to discover future dreams and talents!
+    The theme of this year's profession day is " Dream Big,Explore More:Discover Your Future Today."</p>
   </div>
 
   <div class="section highlight">
